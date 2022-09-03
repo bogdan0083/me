@@ -16,7 +16,7 @@
 * Имеется опыт контрибьюта в популярные Open Source проекты, такие как Autoprefixer и PostCSS:
     * [Ссылка](https://github.com/postcss/postcss/pull/1659) – Исправление ошибки, при которой стили парсились в холостую при пустой конфигурации процессора.
     * [Ссылка](https://github.com/postcss/autoprefixer/pulls?q=is%3Apr+author%3Abogdan0083) - Множество пул-реквестов, в основном исправление CSS Grid Layout в IE10-11. 
-* Обо мне имеется [упоминание](https://css-tricks.com/css-grid-in-ie-duplicate-area-names-now-supported/) в статье на CSS-Tricks, а также упоминание в твиттере Андрея Ситника
+* Обо мне имеется [упоминание](https://css-tricks.com/css-grid-in-ie-duplicate-area-names-now-supported/) в статье на CSS-Tricks.
 * My English is alright. Speaking is bad, but writing is okay. You can evaluate my english skills by looking at [this repository's README](https://github.com/bogdan0083/github-code-viewer).
 
 ## 🎯 Ключевые навыки
