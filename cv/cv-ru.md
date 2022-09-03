@@ -55,7 +55,7 @@
 * [Бойцовский клуб](https://www.kinopoisk.ru/user/17250051/votes/)
 * [Остров проклятых](https://www.kinopoisk.ru/film/397667/)
 
-Список не полный. Больше оценок можно посмотреть (тут)[https://www.kinopoisk.ru/user/17250051/votes/]
+Список не полный. Больше оценок можно посмотреть [тут](https://www.kinopoisk.ru/user/17250051/votes/)
 
 ## Образование
 Среднее полное
