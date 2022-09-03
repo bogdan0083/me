@@ -30,6 +30,14 @@
 ## 💰 Желаемая должность и зарплата
 Рассматриваю позицию `Junior Frontend`, либо `Junior Fullstack` разработчика. **Исключительно удаленку**. Зарплата от 90 т.р. в месяц.
 
+## 📞 Контакты
+* E-mail: bogdan.d1995@gmail.com
+* GitHub: https://github.com/bogdan0083
+* Telegram: https://t.me/bogdan0083
+* VK: https://vk.com/bgdnokay
+* Twitter: https://twitter.com/bogdan0083
+
+
 ## 🧑‍💻 Опыт работы
 
 ### Фрилансер, Frontend Developer
